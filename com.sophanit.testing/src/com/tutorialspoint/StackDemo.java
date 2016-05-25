@@ -16,6 +16,14 @@ public class StackDemo {
 		st.push("Source");
 		st.push("code");
 		st.push("last");
+		st.push("Kongao");
+		st.push("Source");
+		st.push("code");
+		st.push("last");
+		st.push("Kongao");
+		st.push("Source");
+		st.push("code");
+		st.push("last");
 
 		// checking the top object
 		System.out.println("Top object is: " + st.peek());
